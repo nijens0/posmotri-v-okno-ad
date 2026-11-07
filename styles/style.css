@@ -51,6 +51,15 @@ ol {
     background-color: #D9D9D9;
 }
 
+.content {
+    display: flex;
+    width: 711px;
+    margin: auto;
+    align-items: self-end;
+    justify-items: center;
+    gap: 30px;
+}
+
 .result__video-container {
     position: relative;
 }
