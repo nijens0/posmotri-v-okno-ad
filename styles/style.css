@@ -81,6 +81,10 @@ ol {
     margin-bottom: 26px;
 }
 
+.content__list-item {
+    margin-left: 2px;
+}
+
 .result__video-container {
     position: relative;
     width: 711px;
