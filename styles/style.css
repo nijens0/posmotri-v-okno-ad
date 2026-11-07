@@ -60,6 +60,12 @@ ol {
     gap: 30px;
 }
 
+.search-form {
+    display: flex;
+    align-items: self-start;
+    justify-content: space-between;
+}
+
 .result__video-container {
     position: relative;
 }
