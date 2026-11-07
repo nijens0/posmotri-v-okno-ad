@@ -85,6 +85,7 @@ ol {
     position: relative;
     width: 711px;
     height: 386px;
+    margin-bottom: 16px;
 }
 
 .result__video {
