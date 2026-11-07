@@ -118,3 +118,7 @@ ol {
     object-fit: contain;
     object-position: center;
 }
+
+.content__video-card-description {
+    flex-grow: 1;
+}
