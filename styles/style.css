@@ -53,10 +53,10 @@ ol {
 
 .content {
     display: flex;
-    width: 711px;
     margin: auto;
+    width: 1140px;
     align-items: self-end;
-    justify-items: center;
+    justify-content: center;
     gap: 30px;
 }
 
