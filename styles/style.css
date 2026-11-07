@@ -111,3 +111,10 @@ ol {
     align-items: flex-start;
     justify-content: space-between;
 }
+
+.content__video-card-thumbnail {
+    min-width: 194px;
+    height: 103px;
+    object-fit: contain;
+    object-position: center;
+}
