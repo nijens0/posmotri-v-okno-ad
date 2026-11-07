@@ -50,3 +50,11 @@ ol {
 .custom-scrollbar::-webkit-scrollbar-thumb {
     background-color: #D9D9D9;
 }
+
+.result__video-container {
+    position: relative;
+}
+
+.content__list-container {
+    position: relative;
+}
