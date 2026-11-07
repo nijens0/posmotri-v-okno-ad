@@ -66,10 +66,12 @@ ol {
     justify-content: space-between;
 }
 
-.result__video-container {
+.content__list-container {
     position: relative;
+    overflow-y: scroll;
+    height: 298px;
 }
 
-.content__list-container {
+.result__video-container {
     position: relative;
 }
