@@ -256,6 +256,7 @@ ol {
     font-size: var(--font-size-base);
     line-height: 100%;
     letter-spacing: 0;
+    cursor: pointer;
 
     &:has(.search-form__textfield:focus-visible) {
         outline: var(--focus-outline);
